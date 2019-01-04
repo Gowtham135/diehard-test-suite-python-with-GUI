@@ -1,6 +1,6 @@
 # Diehard-test-suite-python-with-GUI
 
-Diehard is a combination of statistical test suites for quality analyses of any random number generator. The diehard library can be used in the command line to test our data. To ease the implementation we have developed a GUI (Graphical User Interface) for Diehard using Tkinter in python 3. List of the tests that can be performed using Diehard are listed below 
+Diehard is a combination of statistical test suites for quality analyses of any random number generator. The diehard library can be used in the command line to test our data. To ease the implementation we have developed a ```GUI (Graphical User Interface) for Diehard using Tkinter in python 3```. List of the tests that can be performed using Diehard are listed below 
 ```bash
 test no(d)     Test Name 
 0		       diehard_birthdays
@@ -36,8 +36,10 @@ test no(d)     Test Name
 
 ```
 ## Requirements
-Python 3
-Linux
+```bash
+Software - Python 3.x
+Os - Linux Operating System
+```
 
 ## Installation
 ```bash
@@ -45,7 +47,7 @@ sudo apt-get install dieharder
 ```
 
 ## Usage
-1.  Run the diehard_gui.py. GUI opens as shown below.
+1.  Run the ```diehard_gui.py```. GUI opens as shown below.
 ![GUI 1](https://github.com/Gowtham135/diehard-test-suite-python-with-GUI/blob/master/Images/diehard_Gui_1.PNG)
 2.  Select the test that you want to perform from the list of tests available. If you want to run all the test select All Test 
 ![GUI 2](https://github.com/Gowtham135/diehard-test-suite-python-with-GUI/blob/master/Images/diehard_Gui_2.PNG)
