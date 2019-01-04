@@ -37,8 +37,8 @@ test no(d)     Test Name
 ```
 ## Requirements
 ```bash
-**Software** - Python 3.x
-**Os** - Linux Operating System
+Software - Python 3.x
+Os - Linux Operating System
 ```
 
 ## Installation
