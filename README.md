@@ -48,12 +48,12 @@ sudo apt-get install dieharder
 1.  Run the diehard_gui.py. GUI opens as shown below.
 ![GUI 1](https://github.com/Gowtham135/diehard-test-suite-python-with-GUI/blob/master/Images/diehard_Gui_1.PNG)
 2.  Select the test that you want to perform from the list of tests available. If you want to run all the test select All Test 
-![GUI 2](https://github.com/Gowtham135/diehard-test-suite-python-with-GUI/blob/master/Images/diehard_Gui2.PNG)
+![GUI 2](https://github.com/Gowtham135/diehard-test-suite-python-with-GUI/blob/master/Images/diehard_Gui_2.PNG)
 3.  Select the binary file which contains the bits that are to be tested.
-![GUI 3](https://github.com/Gowtham135/diehard-test-suite-python-with-GUI/blob/master/Images/diehard_Gui3.PNG)
+![GUI 3](https://github.com/Gowtham135/diehard-test-suite-python-with-GUI/blob/master/Images/diehard_Gui_3.PNG)
 4.  Create an output file where the output of the test should be stored.
-![GUI 4](https://github.com/Gowtham135/diehard-test-suite-python-with-GUI/blob/master/Images/diehard_Gui4.PNG)
+![GUI 4](https://github.com/Gowtham135/diehard-test-suite-python-with-GUI/blob/master/Images/diehard_Gui_4.PNG)
 5.  If you want to append the results to the file, then select Append, else you want to rewrite the file choose Erase/Write.
 6.  Click on start test to start the test.
-![GUI 5](https://github.com/Gowtham135/diehard-test-suite-python-with-GUI/blob/master/Images/diehard_Gui5.PNG)
+![GUI 5](https://github.com/Gowtham135/diehard-test-suite-python-with-GUI/blob/master/Images/diehard_Gui_5.PNG)
 
